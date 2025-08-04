@@ -42,4 +42,4 @@ There was an Expert Lecture by Dr. Arashdeep Singh who tells us about "Food A Pi
 There was an Session by Causmic Club and Launch of Induction Activities 
 ## 3:00 to 4:00 
 our Seniors tell us about github and how to create your account and everything about github 
-they also tells us about markdown viewer where we can see how we can type in github 
+they  also tells us about markdown viewer where we can see how we can type code in github 
